@@ -1,0 +1,429 @@
+
+int switchTest10(int a)
+{
+int value = 0;
+switch(a) {
+case 0: value += 1; break;
+case 1: value += 2; break;
+case 2: value += 3; break;
+case 3: value += 4; break;
+case 4: value += 5; break;
+case 5: value += 6; break;
+case 6: value += 7; break;
+case 7: value += 8; break;
+case 8: value += 9; break;
+case 9: value += 10; break;
+default: value += 999; break;
+} return value; 
+}
+int ifTest10(int a)
+{
+int value = 0;
+if(a == 0) { value += 1; }
+else if(a == 1) { value += 2; }
+else if(a == 2) { value += 3; }
+else if(a == 3) { value += 4; }
+else if(a == 4) { value += 5; }
+else if(a == 5) { value += 6; }
+else if(a == 6) { value += 7; }
+else if(a == 7) { value += 8; }
+else if(a == 8) { value += 9; }
+else if(a == 9) { value += 10; }
+return value;
+}
+int switchTest30(int a)
+{
+int value = 0;
+switch(a) {
+case 0: value += 1; break;
+case 1: value += 2; break;
+case 2: value += 3; break;
+case 3: value += 4; break;
+case 4: value += 5; break;
+case 5: value += 6; break;
+case 6: value += 7; break;
+case 7: value += 8; break;
+case 8: value += 9; break;
+case 9: value += 10; break;
+case 10: value += 11; break;
+case 11: value += 12; break;
+case 12: value += 13; break;
+case 13: value += 14; break;
+case 14: value += 15; break;
+case 15: value += 16; break;
+case 16: value += 17; break;
+case 17: value += 18; break;
+case 18: value += 19; break;
+case 19: value += 20; break;
+case 20: value += 21; break;
+case 21: value += 22; break;
+case 22: value += 23; break;
+case 23: value += 24; break;
+case 24: value += 25; break;
+case 25: value += 26; break;
+case 26: value += 27; break;
+case 27: value += 28; break;
+case 28: value += 29; break;
+case 29: value += 30; break;
+default: value += 999; break;
+} return value; 
+}
+int ifTest30(int a)
+{
+int value = 0;
+if(a == 0) { value += 1; }
+else if(a == 1) { value += 2; }
+else if(a == 2) { value += 3; }
+else if(a == 3) { value += 4; }
+else if(a == 4) { value += 5; }
+else if(a == 5) { value += 6; }
+else if(a == 6) { value += 7; }
+else if(a == 7) { value += 8; }
+else if(a == 8) { value += 9; }
+else if(a == 9) { value += 10; }
+else if(a == 10) { value += 11; }
+else if(a == 11) { value += 12; }
+else if(a == 12) { value += 13; }
+else if(a == 13) { value += 14; }
+else if(a == 14) { value += 15; }
+else if(a == 15) { value += 16; }
+else if(a == 16) { value += 17; }
+else if(a == 17) { value += 18; }
+else if(a == 18) { value += 19; }
+else if(a == 19) { value += 20; }
+else if(a == 20) { value += 21; }
+else if(a == 21) { value += 22; }
+else if(a == 22) { value += 23; }
+else if(a == 23) { value += 24; }
+else if(a == 24) { value += 25; }
+else if(a == 25) { value += 26; }
+else if(a == 26) { value += 27; }
+else if(a == 27) { value += 28; }
+else if(a == 28) { value += 29; }
+else if(a == 29) { value += 30; }
+return value;
+}
+int switchTest50(int a)
+{
+int value = 0;
+switch(a) {
+case 0: value += 1; break;
+case 1: value += 2; break;
+case 2: value += 3; break;
+case 3: value += 4; break;
+case 4: value += 5; break;
+case 5: value += 6; break;
+case 6: value += 7; break;
+case 7: value += 8; break;
+case 8: value += 9; break;
+case 9: value += 10; break;
+case 10: value += 11; break;
+case 11: value += 12; break;
+case 12: value += 13; break;
+case 13: value += 14; break;
+case 14: value += 15; break;
+case 15: value += 16; break;
+case 16: value += 17; break;
+case 17: value += 18; break;
+case 18: value += 19; break;
+case 19: value += 20; break;
+case 20: value += 21; break;
+case 21: value += 22; break;
+case 22: value += 23; break;
+case 23: value += 24; break;
+case 24: value += 25; break;
+case 25: value += 26; break;
+case 26: value += 27; break;
+case 27: value += 28; break;
+case 28: value += 29; break;
+case 29: value += 30; break;
+case 30: value += 31; break;
+case 31: value += 32; break;
+case 32: value += 33; break;
+case 33: value += 34; break;
+case 34: value += 35; break;
+case 35: value += 36; break;
+case 36: value += 37; break;
+case 37: value += 38; break;
+case 38: value += 39; break;
+case 39: value += 40; break;
+case 40: value += 41; break;
+case 41: value += 42; break;
+case 42: value += 43; break;
+case 43: value += 44; break;
+case 44: value += 45; break;
+case 45: value += 46; break;
+case 46: value += 47; break;
+case 47: value += 48; break;
+case 48: value += 49; break;
+case 49: value += 50; break;
+default: value += 999; break;
+} return value; 
+}
+int ifTest50(int a)
+{
+int value = 0;
+if(a == 0) { value += 1; }
+else if(a == 1) { value += 2; }
+else if(a == 2) { value += 3; }
+else if(a == 3) { value += 4; }
+else if(a == 4) { value += 5; }
+else if(a == 5) { value += 6; }
+else if(a == 6) { value += 7; }
+else if(a == 7) { value += 8; }
+else if(a == 8) { value += 9; }
+else if(a == 9) { value += 10; }
+else if(a == 10) { value += 11; }
+else if(a == 11) { value += 12; }
+else if(a == 12) { value += 13; }
+else if(a == 13) { value += 14; }
+else if(a == 14) { value += 15; }
+else if(a == 15) { value += 16; }
+else if(a == 16) { value += 17; }
+else if(a == 17) { value += 18; }
+else if(a == 18) { value += 19; }
+else if(a == 19) { value += 20; }
+else if(a == 20) { value += 21; }
+else if(a == 21) { value += 22; }
+else if(a == 22) { value += 23; }
+else if(a == 23) { value += 24; }
+else if(a == 24) { value += 25; }
+else if(a == 25) { value += 26; }
+else if(a == 26) { value += 27; }
+else if(a == 27) { value += 28; }
+else if(a == 28) { value += 29; }
+else if(a == 29) { value += 30; }
+else if(a == 30) { value += 31; }
+else if(a == 31) { value += 32; }
+else if(a == 32) { value += 33; }
+else if(a == 33) { value += 34; }
+else if(a == 34) { value += 35; }
+else if(a == 35) { value += 36; }
+else if(a == 36) { value += 37; }
+else if(a == 37) { value += 38; }
+else if(a == 38) { value += 39; }
+else if(a == 39) { value += 40; }
+else if(a == 40) { value += 41; }
+else if(a == 41) { value += 42; }
+else if(a == 42) { value += 43; }
+else if(a == 43) { value += 44; }
+else if(a == 44) { value += 45; }
+else if(a == 45) { value += 46; }
+else if(a == 46) { value += 47; }
+else if(a == 47) { value += 48; }
+else if(a == 48) { value += 49; }
+else if(a == 49) { value += 50; }
+return value;
+}
+int switchTest100(int a)
+{
+int value = 0;
+switch(a) {
+case 0: value += 1; break;
+case 1: value += 2; break;
+case 2: value += 3; break;
+case 3: value += 4; break;
+case 4: value += 5; break;
+case 5: value += 6; break;
+case 6: value += 7; break;
+case 7: value += 8; break;
+case 8: value += 9; break;
+case 9: value += 10; break;
+case 10: value += 11; break;
+case 11: value += 12; break;
+case 12: value += 13; break;
+case 13: value += 14; break;
+case 14: value += 15; break;
+case 15: value += 16; break;
+case 16: value += 17; break;
+case 17: value += 18; break;
+case 18: value += 19; break;
+case 19: value += 20; break;
+case 20: value += 21; break;
+case 21: value += 22; break;
+case 22: value += 23; break;
+case 23: value += 24; break;
+case 24: value += 25; break;
+case 25: value += 26; break;
+case 26: value += 27; break;
+case 27: value += 28; break;
+case 28: value += 29; break;
+case 29: value += 30; break;
+case 30: value += 31; break;
+case 31: value += 32; break;
+case 32: value += 33; break;
+case 33: value += 34; break;
+case 34: value += 35; break;
+case 35: value += 36; break;
+case 36: value += 37; break;
+case 37: value += 38; break;
+case 38: value += 39; break;
+case 39: value += 40; break;
+case 40: value += 41; break;
+case 41: value += 42; break;
+case 42: value += 43; break;
+case 43: value += 44; break;
+case 44: value += 45; break;
+case 45: value += 46; break;
+case 46: value += 47; break;
+case 47: value += 48; break;
+case 48: value += 49; break;
+case 49: value += 50; break;
+case 50: value += 51; break;
+case 51: value += 52; break;
+case 52: value += 53; break;
+case 53: value += 54; break;
+case 54: value += 55; break;
+case 55: value += 56; break;
+case 56: value += 57; break;
+case 57: value += 58; break;
+case 58: value += 59; break;
+case 59: value += 60; break;
+case 60: value += 61; break;
+case 61: value += 62; break;
+case 62: value += 63; break;
+case 63: value += 64; break;
+case 64: value += 65; break;
+case 65: value += 66; break;
+case 66: value += 67; break;
+case 67: value += 68; break;
+case 68: value += 69; break;
+case 69: value += 70; break;
+case 70: value += 71; break;
+case 71: value += 72; break;
+case 72: value += 73; break;
+case 73: value += 74; break;
+case 74: value += 75; break;
+case 75: value += 76; break;
+case 76: value += 77; break;
+case 77: value += 78; break;
+case 78: value += 79; break;
+case 79: value += 80; break;
+case 80: value += 81; break;
+case 81: value += 82; break;
+case 82: value += 83; break;
+case 83: value += 84; break;
+case 84: value += 85; break;
+case 85: value += 86; break;
+case 86: value += 87; break;
+case 87: value += 88; break;
+case 88: value += 89; break;
+case 89: value += 90; break;
+case 90: value += 91; break;
+case 91: value += 92; break;
+case 92: value += 93; break;
+case 93: value += 94; break;
+case 94: value += 95; break;
+case 95: value += 96; break;
+case 96: value += 97; break;
+case 97: value += 98; break;
+case 98: value += 99; break;
+case 99: value += 100; break;
+default: value += 999; break;
+} return value; 
+}
+int ifTest100(int a)
+{
+int value = 0;
+if(a == 0) { value += 1; }
+else if(a == 1) { value += 2; }
+else if(a == 2) { value += 3; }
+else if(a == 3) { value += 4; }
+else if(a == 4) { value += 5; }
+else if(a == 5) { value += 6; }
+else if(a == 6) { value += 7; }
+else if(a == 7) { value += 8; }
+else if(a == 8) { value += 9; }
+else if(a == 9) { value += 10; }
+else if(a == 10) { value += 11; }
+else if(a == 11) { value += 12; }
+else if(a == 12) { value += 13; }
+else if(a == 13) { value += 14; }
+else if(a == 14) { value += 15; }
+else if(a == 15) { value += 16; }
+else if(a == 16) { value += 17; }
+else if(a == 17) { value += 18; }
+else if(a == 18) { value += 19; }
+else if(a == 19) { value += 20; }
+else if(a == 20) { value += 21; }
+else if(a == 21) { value += 22; }
+else if(a == 22) { value += 23; }
+else if(a == 23) { value += 24; }
+else if(a == 24) { value += 25; }
+else if(a == 25) { value += 26; }
+else if(a == 26) { value += 27; }
+else if(a == 27) { value += 28; }
+else if(a == 28) { value += 29; }
+else if(a == 29) { value += 30; }
+else if(a == 30) { value += 31; }
+else if(a == 31) { value += 32; }
+else if(a == 32) { value += 33; }
+else if(a == 33) { value += 34; }
+else if(a == 34) { value += 35; }
+else if(a == 35) { value += 36; }
+else if(a == 36) { value += 37; }
+else if(a == 37) { value += 38; }
+else if(a == 38) { value += 39; }
+else if(a == 39) { value += 40; }
+else if(a == 40) { value += 41; }
+else if(a == 41) { value += 42; }
+else if(a == 42) { value += 43; }
+else if(a == 43) { value += 44; }
+else if(a == 44) { value += 45; }
+else if(a == 45) { value += 46; }
+else if(a == 46) { value += 47; }
+else if(a == 47) { value += 48; }
+else if(a == 48) { value += 49; }
+else if(a == 49) { value += 50; }
+else if(a == 50) { value += 51; }
+else if(a == 51) { value += 52; }
+else if(a == 52) { value += 53; }
+else if(a == 53) { value += 54; }
+else if(a == 54) { value += 55; }
+else if(a == 55) { value += 56; }
+else if(a == 56) { value += 57; }
+else if(a == 57) { value += 58; }
+else if(a == 58) { value += 59; }
+else if(a == 59) { value += 60; }
+else if(a == 60) { value += 61; }
+else if(a == 61) { value += 62; }
+else if(a == 62) { value += 63; }
+else if(a == 63) { value += 64; }
+else if(a == 64) { value += 65; }
+else if(a == 65) { value += 66; }
+else if(a == 66) { value += 67; }
+else if(a == 67) { value += 68; }
+else if(a == 68) { value += 69; }
+else if(a == 69) { value += 70; }
+else if(a == 70) { value += 71; }
+else if(a == 71) { value += 72; }
+else if(a == 72) { value += 73; }
+else if(a == 73) { value += 74; }
+else if(a == 74) { value += 75; }
+else if(a == 75) { value += 76; }
+else if(a == 76) { value += 77; }
+else if(a == 77) { value += 78; }
+else if(a == 78) { value += 79; }
+else if(a == 79) { value += 80; }
+else if(a == 80) { value += 81; }
+else if(a == 81) { value += 82; }
+else if(a == 82) { value += 83; }
+else if(a == 83) { value += 84; }
+else if(a == 84) { value += 85; }
+else if(a == 85) { value += 86; }
+else if(a == 86) { value += 87; }
+else if(a == 87) { value += 88; }
+else if(a == 88) { value += 89; }
+else if(a == 89) { value += 90; }
+else if(a == 90) { value += 91; }
+else if(a == 91) { value += 92; }
+else if(a == 92) { value += 93; }
+else if(a == 93) { value += 94; }
+else if(a == 94) { value += 95; }
+else if(a == 95) { value += 96; }
+else if(a == 96) { value += 97; }
+else if(a == 97) { value += 98; }
+else if(a == 98) { value += 99; }
+else if(a == 99) { value += 100; }
+return value;
+}
